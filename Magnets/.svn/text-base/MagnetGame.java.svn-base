@@ -1,0 +1,28 @@
+import objectdraw.*;
+import java.awt.*;
+
+/*
+ * DESCRIBE YOUR CLASS HERE
+ * 
+ * YOUR NAME / LAB SECTION
+ * DATE
+ * 
+ */
+public class MagnetGame extends WindowController {
+
+
+
+    public void onMousePress(Location point) {
+
+    }
+
+    public void onMouseDrag(Location point) {
+
+    }
+
+    public void onMouseClick(Location point) {
+
+    }
+
+}
+
